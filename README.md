@@ -4,4 +4,4 @@ Neste projeto eu criei um mini "jogo" para navegador, este jogo consiste de perg
 
 <h2>O que eu aprendi:</h2>
 
-Neste projeto, eu melhorei a minha relação com os comandos do HTML, CSS e JavaScript. 
+Neste projeto, eu melhorei a minha relação com os comandos do HTML e CSS.
